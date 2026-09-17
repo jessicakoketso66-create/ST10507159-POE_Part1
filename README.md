@@ -21,5 +21,3 @@ This repository contains Part 1 of my Portfolio of Evidence (POE). The project f
 ## Author
 * **Student Number: ST10507159
 * student Name: Jessica
-
-##failure to navigate: check under build i think
