@@ -11,11 +11,9 @@ This repository contains Part 1 of my Portfolio of Evidence (POE). The project f
 * Data Validation
 
 ## Technologies Used
-*(Replace this with your actual language/tech)*
-* e.g., Java / Python / C# / HTML & CSS
+ Java 
 
 ## How to Run
-*(Add brief instructions on how to run your code here)*
 1. Clone the repository.
 2. Open the project in your IDE.
 3. Run the main application file.
@@ -23,3 +21,5 @@ This repository contains Part 1 of my Portfolio of Evidence (POE). The project f
 ## Author
 * **Student Number: ST10507159
 * student Name: Jessica
+
+##failure to navigate: check under build i think
